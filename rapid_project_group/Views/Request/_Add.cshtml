@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Asset_Management.ViewModel.RequestAssetReq
+@{
+    ViewBag.Title = "Request - Add Data";
+}
+
+<form asp-controller="Request" asp-action="Save" method="post">
+    <div class="form-group">
+        <label asp-for="PicId">PIC ID</label>
+        <input asp-for="PicId" class="form-control" />
+        <span asp-validation-for="PicId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Specification">Specification</label>
+        <textarea asp-for="Specification" class="form-control"></textarea>
+        <span asp-validation-for="Specification" class="text-danger"></span>
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

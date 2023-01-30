@@ -1,0 +1,14 @@
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\bin\Debug\net7.0\Asset-Management-ViewModel.deps.json
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\bin\Debug\net7.0\Asset-Management-ViewModel.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\bin\Debug\net7.0\Asset-Management-ViewModel.pdb
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.csproj.AssemblyReference.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.AssemblyInfoInputs.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.AssemblyInfo.cs
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.csproj.CoreCompileInputs.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\refint\Asset-Management-ViewModel.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.pdb
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\ref\Asset-Management-ViewModel.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\bin\Debug\net7.0\Asset-Management-ViewModel.runtimeconfig.json
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-ViewModel\obj\Debug\net7.0\Asset-Management-ViewModel.genruntimeconfig.cache

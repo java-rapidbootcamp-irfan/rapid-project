@@ -1,0 +1,17 @@
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.csproj.AssemblyReference.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.AssemblyInfoInputs.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.AssemblyInfo.cs
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.csproj.CoreCompileInputs.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-Repository.deps.json
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-Repository.runtimeconfig.json
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-Repository.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-Repository.pdb
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-ViewModel.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\bin\Debug\net7.0\Asset-Management-ViewModel.pdb
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.csproj.CopyComplete
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\refint\Asset-Management-Repository.dll
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.pdb
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\Asset-Management-Repository.genruntimeconfig.cache
+E:\Codes\belajar dotnet\rapid-project\RapidProject\Asset-Management-Repository\obj\Debug\net7.0\ref\Asset-Management-Repository.dll
